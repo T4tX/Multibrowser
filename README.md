@@ -3,7 +3,4 @@ While participating in the ctf I ran into the problem that different browsers pr
 
 # How it works
 [![Demo Video](https://img.youtube.com/vi/jP2TUrrRYUw/0.jpg)](https://www.youtube.com/watch?v=jP2TUrrRYUw)
-[![Demo Video]](https://youtu.be/jP2TUrrRYUw)
-https://youtu.be/jP2TUrrRYUw
-[![Demo Video]](demonstrarion.mp4)
 
